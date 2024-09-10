@@ -54,7 +54,7 @@
         <allowPause>true</allowPause>
         <fields>
             <name>Board</name>
-            <fieldText>&lt;p&gt;&lt;strong&gt;{!Get_Account_Records.Name} Wel Come To salesforce!!!!&lt;/strong&gt;&lt;/p&gt;</fieldText>
+            <fieldText>&lt;p&gt;&lt;strong&gt;{!Get_Account_Records.Name} Wel Come To salesforce!!!!htfdrtdrhtdhrd&lt;/strong&gt;&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>
@@ -62,7 +62,7 @@
     </screens>
     <start>
         <locationX>50</locationX>
-        <locationY>000</locationY>
+        <locationY>0</locationY>
         <connector>
             <targetReference>Get_Account_Records</targetReference>
         </connector>
