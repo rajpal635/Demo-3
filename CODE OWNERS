@@ -1,0 +1,7 @@
+# Path to the files or directories followed by GitHub username(s) or team(s)
+# You can use wildcard patterns for paths
+# Example:
+
+# All files in the repository
+*       @rajpal635 
+
