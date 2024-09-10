@@ -62,7 +62,7 @@
     </screens>
     <start>
         <locationX>50</locationX>
-        <locationY>0</locationY>
+        <locationY>000</locationY>
         <connector>
             <targetReference>Get_Account_Records</targetReference>
         </connector>
